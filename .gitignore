@@ -1,0 +1,20 @@
+# Compiled binaries
+synflood
+*.o
+*.out
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Placeholder SVGs (replace with real screenshots)
+*_placeholder.svg
